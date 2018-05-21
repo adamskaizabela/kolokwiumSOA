@@ -1,0 +1,6 @@
+c:\users\pulpet\source\repos\NewbayIZAADA\Newbay.DTOIZAADA\bin\Debug\Newbay.DTOIZAADA.dll
+c:\users\pulpet\source\repos\NewbayIZAADA\Newbay.DTOIZAADA\bin\Debug\Newbay.DTOIZAADA.pdb
+c:\users\pulpet\source\repos\NewbayIZAADA\Newbay.DTOIZAADA\obj\Debug\Newbay.DTOIZAADA.csprojResolveAssemblyReference.cache
+c:\users\pulpet\source\repos\NewbayIZAADA\Newbay.DTOIZAADA\obj\Debug\Newbay.DTOIZAADA.csproj.CoreCompileInputs.cache
+c:\users\pulpet\source\repos\NewbayIZAADA\Newbay.DTOIZAADA\obj\Debug\Newbay.DTOIZAADA.dll
+c:\users\pulpet\source\repos\NewbayIZAADA\Newbay.DTOIZAADA\obj\Debug\Newbay.DTOIZAADA.pdb

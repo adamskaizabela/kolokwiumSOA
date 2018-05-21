@@ -1,0 +1,13 @@
+c:\users\pulpet\source\repos\NewbayIZAADA\Newbay.DALIZAADA\bin\Debug\Newbay.DALIZAADA.dll
+c:\users\pulpet\source\repos\NewbayIZAADA\Newbay.DALIZAADA\bin\Debug\Newbay.DALIZAADA.pdb
+c:\users\pulpet\source\repos\NewbayIZAADA\Newbay.DALIZAADA\bin\Debug\LiteDB.dll
+c:\users\pulpet\source\repos\NewbayIZAADA\Newbay.DALIZAADA\bin\Debug\Newbay.DTOIZAADA.dll
+c:\users\pulpet\source\repos\NewbayIZAADA\Newbay.DALIZAADA\bin\Debug\Newbay.ModelsIZAADA.dll
+c:\users\pulpet\source\repos\NewbayIZAADA\Newbay.DALIZAADA\bin\Debug\Newbay.DTOIZAADA.pdb
+c:\users\pulpet\source\repos\NewbayIZAADA\Newbay.DALIZAADA\bin\Debug\Newbay.ModelsIZAADA.pdb
+c:\users\pulpet\source\repos\NewbayIZAADA\Newbay.DALIZAADA\bin\Debug\LiteDB.xml
+c:\users\pulpet\source\repos\NewbayIZAADA\Newbay.DALIZAADA\obj\Debug\Newbay.DALIZAADA.csprojResolveAssemblyReference.cache
+c:\users\pulpet\source\repos\NewbayIZAADA\Newbay.DALIZAADA\obj\Debug\Newbay.DALIZAADA.csproj.CoreCompileInputs.cache
+c:\users\pulpet\source\repos\NewbayIZAADA\Newbay.DALIZAADA\obj\Debug\Newbay.DALIZAADA.csproj.CopyComplete
+c:\users\pulpet\source\repos\NewbayIZAADA\Newbay.DALIZAADA\obj\Debug\Newbay.DALIZAADA.dll
+c:\users\pulpet\source\repos\NewbayIZAADA\Newbay.DALIZAADA\obj\Debug\Newbay.DALIZAADA.pdb

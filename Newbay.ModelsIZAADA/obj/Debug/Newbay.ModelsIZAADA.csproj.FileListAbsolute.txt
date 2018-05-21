@@ -1,0 +1,6 @@
+c:\users\pulpet\source\repos\NewbayIZAADA\Newbay.ModelsIZAADA\bin\Debug\Newbay.ModelsIZAADA.dll
+c:\users\pulpet\source\repos\NewbayIZAADA\Newbay.ModelsIZAADA\bin\Debug\Newbay.ModelsIZAADA.pdb
+c:\users\pulpet\source\repos\NewbayIZAADA\Newbay.ModelsIZAADA\obj\Debug\Newbay.ModelsIZAADA.csprojResolveAssemblyReference.cache
+c:\users\pulpet\source\repos\NewbayIZAADA\Newbay.ModelsIZAADA\obj\Debug\Newbay.ModelsIZAADA.csproj.CoreCompileInputs.cache
+c:\users\pulpet\source\repos\NewbayIZAADA\Newbay.ModelsIZAADA\obj\Debug\Newbay.ModelsIZAADA.dll
+c:\users\pulpet\source\repos\NewbayIZAADA\Newbay.ModelsIZAADA\obj\Debug\Newbay.ModelsIZAADA.pdb
